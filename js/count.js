@@ -1,6 +1,6 @@
 $(function() {
   // 설정된 마감 날짜와 시간
-  var targetDate = new Date("2024-05-31T11:59:00");
+  var targetDate = new Date("2024-06-02T11:59:00");
   var year = targetDate.getFullYear();
   var month = (targetDate.getMonth() + 1).toString().padStart(2, "0");
   var day = targetDate.getDate().toString().padStart(2, "0");
