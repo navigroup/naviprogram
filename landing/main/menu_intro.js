@@ -4,8 +4,8 @@ template.innerHTML = `
 <nav class="top">
     <a  class="logo"  target="_self" >
 
-       <img alt="" src="./main/jp_white.png" > 
-    <span  style="font-size:13px;white-space:nowrap;padding: 0px 0 0 12px;color:#fff;">[무료 세금 환급액 조회]</span>
+       <!-- <img alt="" src="./main/jp_white.png" >  -->
+    <span  style="font-size:13px;white-space:nowrap;padding: 0px 0 0 12px;color:#fff;">책추남 나비스쿨</span>
     
     </a>
     <div class="menu-btn">
